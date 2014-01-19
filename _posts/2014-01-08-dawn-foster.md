@@ -40,13 +40,17 @@ I feel tremendously fortunate to have this opportunity to work in a field that I
 I’d like to end my nerd story with some advice for how other young people, especially women, can make their own nerd story:
 
   * Do some programming – on your own, in a class, or as a technology major of some form. Try a few things, and find something you enjoy.
-  * Use internships as a way to try out a few companies / jobs, but get paid for them (do not take a free internship doing tech work)! It’s a great way to try out a job and a company with little risk, since they are usually a 3 month gig. If it goes well, and you enjoy it, your chances of getting hired by that company are good.
+  * Use internships as a way to try out a few companies / jobs, but get paid for them (do not take a free internship doing tech work)! It's a great way to try out a job and a company with little risk, since they are usually a 3 month gig. If it goes well, and you enjoy it, your chances of getting hired by that company are good.
   * [Pick a topic you are interested in and speak about it at a conference][11]. Most of my career opportunities are a result of speaking at conferences.
   * Watch my recent presentation about [building a successful technology career][12] for other tips.
 
 So what now? Share this story and others on the social media platform of your choice, encourage other women to write their stories, or blog about your nerd origins and share it with the hashtag #mynerdstory. You can also check out the [My Nerd Story Facebook page][13].
 
 Photo Credits:
+
+  * [Atari 400](http://en.wikipedia.org/wiki/File:Atari-400-Comp.jpg) - photo by Evan-Amos
+  * [Atari DOS](http://en.wikipedia.org/wiki/File:Ataridos-2.5.PNG)
+  * [Jimmy Wales and Dawn Foster](http://www.flickr.com/photos/rexb/961000397/) - photo by Rex Bennett
 
    [1]: http://skinnywhitegirl.com/blog/my-nerd-story/1101/
    [2]: http://valleywag.gawker.com/paul-graham-says-women-havent-been-hacking-for-the-pa-1490581236?rev=1388186389
