@@ -4,6 +4,7 @@ date: 2013-04-11 00:00
 tags: English
 title: Getting Women Hooked into Open Source | Anita's Quilt
 author: Lukas Blakk
+strapline: Release Manager for Mozilla Firefox
 headshot: http://anitasquilt.files.wordpress.com/2013/02/lukas_profile_180.jpg
 ---
 
