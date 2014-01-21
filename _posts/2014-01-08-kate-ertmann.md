@@ -10,8 +10,6 @@ headshot: /img/posts/kate-ertmann.jpeg
 
 [Source](https://medium.com/mynerdstory-on-medium/8be57f4b9afe "Permalink to My zig-zag path to a techcentric career — #mynerdstory on Medium — Medium")
 
-# My zig-zag path to a techcentric career
-
 ![][1]
 
 This is the view most people have of me.

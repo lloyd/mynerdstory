@@ -4,6 +4,7 @@ date: 2014-01-08 00:00
 tags: English
 title: Ham Radio, Atari, and UNIX
 author: Dawn Foster
+strapline: Open source community manager for Puppet, formerly of Intel
 headshot: /img/posts/dawn-foster.png
 ---
 
