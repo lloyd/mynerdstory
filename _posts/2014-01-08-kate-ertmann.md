@@ -4,6 +4,7 @@ date: 2014-01-08 00:00
 tags: English
 title:  My Zig-zag Path to a Techcentric Career
 author: Kate Ertmann
+strapline: Owner of ADi, a 3d animation company
 headshot: /img/posts/kate-ertmann.jpeg
 ---
 

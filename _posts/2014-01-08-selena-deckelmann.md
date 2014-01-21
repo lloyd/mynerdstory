@@ -4,6 +4,7 @@ date: 2014-01-08 00:00
 tags: English
 title: It Ran In The Family, But Wasn’t Inevitable
 author: Selena Deckelmann
+strapline: Postgresql wrangler of petabytes of Firefox crash data
 headshot: /img/posts/selena-deckelmann.png
 ---
 
