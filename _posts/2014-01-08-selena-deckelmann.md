@@ -10,8 +10,6 @@ headshot: /img/posts/selena-deckelmann.png
 
 [Source](http://www.chesnok.com/daily/2014/01/08/my-nerd-story-it-ran-in-the-family/ "Permalink to it ran in the family, but wasn’t inevitable")
 
-# it ran in the family, but wasn’t inevitable
-
 This is about how I came to identify as a hacker. It was inspired by [Crystal Beasley’s post][1]. This is unfortunately also related to recent sexist comments from a Silicon Valley VC about the lack of women hackers. I won’t bother to hate-link, as others have covered his statements fully elsewhere.
 
 I’ve [written][2] and [talked][3] about my path into the tech industry before, and my thoughts about how to get more women involved. But I didn’t really ever start the story where it probably should have been started: in my grandfather’s back yard.
